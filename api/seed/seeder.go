@@ -4,6 +4,7 @@ import (
 	"log"
 
 	"github.com/ApelMerah/go-crud/api/models"
+
 	"github.com/jinzhu/gorm"
 )
 
